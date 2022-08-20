@@ -3,7 +3,7 @@ title: "CODM Aimbot"
 date: 2022-08-20 00:44:30
 ---
 
-## The codm aimbot helps you improve your aim in games such as counter strike: global offensive.
+## The codm aimbot helps you improve your aim in Call of Duty Mobile
 
 The Aimbot COD Mobile is a cheat that allows you to cheat in game by making it easier and more convenient to play the game. It uses software that can change your mouse settings so that the cursor moves automatically, reducing the amount of time you need to spend on aiming.
 
